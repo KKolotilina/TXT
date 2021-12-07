@@ -1,0 +1,7 @@
+Скиллы:
+1. GitBash
+2. Linux
+3. Postman
+4. DevTools
+5. SQL
+6. Jmeter
